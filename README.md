@@ -26,4 +26,6 @@ If you want to highlight the term use backticks like `that`
 
 :relieved:
 
+:boom:
+:collision:
 
