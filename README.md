@@ -43,3 +43,15 @@ Step 7: Make changes on the local repository and then push it to the remote repo
 Step 8: Solve merge conflict.
 Step 9: Update the readme file with instructions how to avoide merge conflicts and how to solve it.
 
+## PR : Pull Request
+
+# New Commands
+
+git branch mybranch_name    // only create branch with example name mybranch **not checkout**
+
+git checkout -b my_branch_name   // create and switch a to a new branch
+git checkout existing-branch    // switch branches
+git push origin my_branch_name   //push branch to remote repository
+git pull origin my_branch_name    //pull changes from a specific branch on a remote repository
+
+
