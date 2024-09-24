@@ -33,3 +33,9 @@ If you want to highlight the term use backticks like `that`
 ### Git task:
 
 
+Step 5: Make changes on the local repository and then push it to the remote repository.
+Step 6: Make changes to the remote repository.
+Step 7: Make changes on the local repository and then push it to the remote repository.
+Step 8: Solve merge conflict.
+Step 9: Update the readme file with instructions how to avoide merge conflicts and how to solve it.
+
