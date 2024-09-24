@@ -31,6 +31,10 @@ If you want to highlight the term use backticks like `that`
 
 
 ### Git task:
+Step 1: Create a new GH repository for testing.
+Step 2: Create local repository for testing.
+Step 3: In readme file write down all steps you do for this task.
+Step 4: Connnect both repositories.
 
 
 Step 5: Make changes on the local repository and then push it to the remote repository.
