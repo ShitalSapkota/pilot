@@ -46,11 +46,24 @@ If you want to highlight the term use backticks like `that`
 
 # New Commands
 
-- git branch mybranch_name    // only create branch with example name mybranch **not checkout**
+- git branch mybranch_name    // only create branch with example name mybranch  **not checkout**
 
 - git checkout -b my_branch_name   // create and switch a to a new branch
 - git checkout existing-branch    // switch branches
 - git push origin my_branch_name   //push branch to remote repository
 - git pull origin my_branch_name    //pull changes from a specific branch on a remote repository
 
+## Commit Message Guidelines
 
+- Each commit message consists of a header (mandatory) and a body (optional).
+
+* Header
+<type>: <short summary>
+............ commit type: build|docs|feat|fix|refactor|test ......
+............ summary should be short, not capilatizes, in present tense and never end with dot. ........ 
+
+## Detailed Commit
+
+git commit -m "...." -m "- ..... - ..... - ...... -   ......"
+
+.... is commit message.
